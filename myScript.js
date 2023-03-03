@@ -11,6 +11,10 @@ function calculate() {
     window.alert("3 plus 3 is: "+z+"!");
 }
 
+function getTime() {
+    document.getElementById('demo').innerHTML = Date();
+}
+
 function dataTypes() {
     let words = ['feel', 'fire', 'fox', 'funny'];
     // document.getElementById('datatypes').innerHTML= typeof words;
