@@ -1,0 +1,15 @@
+
+#title {
+    color: blue;
+}
+
+.read, .unread {
+    background-color: black;
+}
+
+.read {
+    color: aqua;
+}
+.unread {
+    color: brown;
+}
